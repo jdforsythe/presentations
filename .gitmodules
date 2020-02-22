@@ -1,0 +1,3 @@
+[submodule "bloch"]
+	path = bloch
+	url = git@github.com:jdforsythe/bloch.git
