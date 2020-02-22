@@ -1,0 +1,9 @@
+*/.terraform
+
+# hide your secrets
+.env
+.keys
+
+# you want to get rid of this
+*/terraform.tfstate
+*/terraform.tfstate.backup
